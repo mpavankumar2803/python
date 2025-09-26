@@ -1,2 +1,3 @@
 # python
-python notes, DSA and important questions.
+python notes, DSA and important questions
+
