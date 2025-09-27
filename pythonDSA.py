@@ -64,7 +64,7 @@ if find(list,n):
     print("found at position : ",pos+1)
 else:
     print("not found")
-
+'''
 
 
 
@@ -91,4 +91,4 @@ if(find(list,31)):
 else:
     print("numb not found")
 
-'''
+
